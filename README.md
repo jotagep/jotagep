@@ -6,7 +6,7 @@
    <a href="https://youtube.com/Sir_JotaG" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jotagep" height="28px" width="28px" />
   </a>
-  <a href="https://twitter.com/Sir_JotaG" target="blank">
+  <a href="https://twitter.com/jotagep_dev" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jotagep" height="28px" width="28px" />
   </a>
   <a href="https://jotagep.com" target="blank">
