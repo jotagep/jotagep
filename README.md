@@ -1,8 +1,8 @@
-<h1 align="center">Jotagep: The cap's developer 🧢</h1>
+<h1 align="center">Jotagep: Web³ developer 🧢</h1>
 
-<h4 align="center">I'm a developer (focus on blockchain & front-end) with a cap on my head. I enjoy recording videos for youtube speaking about this kind of things, coding bounties and always keep learning</h3>
+<h4 align="center">I'm a *developer (focus on frontend & blockchain)*. I love to create things through code, coding bounties and always keep learning</h3>
 
-## Tech Stack
+## Main Tech Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -20,7 +20,7 @@
 
 ## Socials
 <p align="center">
-   <a href="https://youtube.com/Sir_JotaG" target="blank" style="margin-right: 4px">
+   <a href="https://www.youtube.com/channel/UCfEnVdbamDIjezK-22kXC9Q" target="blank" style="margin-right: 4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jotagep" height="24px" width="24px" />
   </a>
   <a href="https://twitter.com/jotagep_dev" target="blank" style="margin-right: 4px">
