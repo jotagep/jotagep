@@ -1,6 +1,6 @@
-<h1 align="center">Jotagep: Web³ developer 🧢</h1>
+<h1 align="center">Jotagep - Web³ developer 🧢</h1>
 
-<h4 align="center">I'm a developer (focus on web & blockchain). <br />I love to create things through code, coding bounties and always keep learning</h4>
+<p align="center">I'm a web developer. Currently working as front end at <a href="https://www.redpoints.com/">RedPoints</a>.<br />I love to create things through code, coding bounties and always keep learning</p>
 
 ## Main Tech Stack
 <p align="center">
