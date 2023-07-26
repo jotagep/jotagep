@@ -1,4 +1,4 @@
-<h1 align="center">Jotagep - Web³ developer 🧢</h1>
+<h1 align="center">Jotagep - Web developer 🧢</h1>
 
 <p align="center">I'm a web developer. Currently working as <b>Senior Front-End Developer</b> at <a href="https://www.redpoints.com/">RedPoints</a>.<br />I love to create things through code, coding bounties and always keep learning</p>
 
