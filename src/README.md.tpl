@@ -24,9 +24,7 @@
 
 ## Last Starred Repos
 
-- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - 2371 stars
-- [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 2402 stars
-- [oven-sh/bun](https://github.com/oven-sh/bun) - 70553 stars
+%{{last_starred_repos}}%
 
 ## Socials
 
@@ -50,5 +48,5 @@
 
 <div style="text-align: center; margin-top: 30px">
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
-<span style="font-size: 10px; font-style: italic">Updated at  25 Apr 2024 17:12:50 UTC</span>
+<span style="font-size: 10px; font-style: italic">Updated at %{{updated_at}}%</span>
 </div>

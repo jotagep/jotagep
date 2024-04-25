@@ -1,0 +1,28 @@
+{
+	"name": "jotagep",
+	"version": "1.0.0",
+	"description": "Jotagep GitHub profile",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"update": "node src/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jotagep/jotagep.git"
+	},
+	"author": "Jotagep <jotagepweb@gmail.com> (https://jotagep.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jotagep/jotagep/issues"
+	},
+	"homepage": "https://github.com/jotagep/jotagep#readme",
+	"dependencies": {
+		"node-fetch": "^3.3.2",
+		"twitter-api-sdk": "^1.2.1",
+		"twitter-api-v2": "^1.16.3"
+	},
+	"eslintConfig": {
+		"extends": "./node_modules/standard/eslintrc.json"
+	}
+}
