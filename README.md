@@ -48,7 +48,7 @@
   </a>
 </p>
 
-<div style="text-align: center; margin-top: 30px">
+<div align="center" class="mt-4">
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
-<span style="font-size: 10px; font-style: italic">Updated at  25 Apr 2024 17:12:50 UTC</span>
+<span class"text-small color-fg-muted">Updated at 25 Apr 2024 17:22:27 UTC</span>
 </div>
