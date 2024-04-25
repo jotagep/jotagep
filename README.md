@@ -22,11 +22,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
-## Last Starred Repos
+## Last Starred Repos ✨ [^1]
 
-- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - 2371 stars
-- [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 2402 stars
-- [oven-sh/bun](https://github.com/oven-sh/bun) - 70553 stars
+- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - 2371 ⭐️
+- [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 2402 ⭐️
+- [oven-sh/bun](https://github.com/oven-sh/bun) - 70553 ⭐️
 
 ## Socials
 
@@ -50,5 +50,6 @@
 
 <div align="center" class="mt-4">
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
-<span class"text-small color-fg-muted">Updated at 25 Apr 2024 17:22:27 UTC</span>
 </div>
+
+[^1]: Updated at 25 Apr 2024 17:32:20 UTC

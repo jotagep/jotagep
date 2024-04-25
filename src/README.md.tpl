@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
-## Last Starred Repos
+## Last Starred Repos ✨ [^1]
 
 %{{last_starred_repos}}%
 
@@ -48,5 +48,6 @@
 
 <div align="center" class="mt-4">
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
-<span class"text-small color-fg-muted">Updated at%{{updated_at}}%</span>
 </div>
+
+[^1]: Updated at%{{updated_at}}%

@@ -28,7 +28,7 @@ async function getLastStarredRepos(username, number = 3) {
 	const latestStarredRepos = starredRepos
 		.map(
 			({ full_name: title, html_url: link, stargazers_count: stars }) =>
-				`- [${title}](${link}) - ${stars} stars`
+				`- [${title}](${link}) - ${stars} ⭐️`
 		)
 		.join("\n")
 
