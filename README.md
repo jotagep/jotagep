@@ -24,8 +24,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [ollama/ollama](https://github.com/ollama/ollama) - 60689 ⭐️
-- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - 2386 ⭐️
+- [ollama/ollama](https://github.com/ollama/ollama) - 60818 ⭐️
+- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - 2391 ⭐️
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 2404 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 26 Apr 2024 16:00:45 UTC
+[^1]: Updated at 27 Apr 2024 00:02:42 UTC
