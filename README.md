@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - 21380 ⭐️
-- [ollama/ollama](https://github.com/ollama/ollama) - 61898 ⭐️
-- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - 2426 ⭐️
+- [m1guelpf/prompt-organizer](https://github.com/m1guelpf/prompt-organizer) - 4 ⭐️
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - 21940 ⭐️
+- [ollama/ollama](https://github.com/ollama/ollama) - 62113 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 29 Apr 2024 08:00:48 UTC
+[^1]: Updated at 29 Apr 2024 16:00:57 UTC
