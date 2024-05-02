@@ -25,8 +25,8 @@
 ## Last Starred Repos ✨ [^1]
 
 - [m1guelpf/prompt-organizer](https://github.com/m1guelpf/prompt-organizer) - 6 ⭐️
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - 23234 ⭐️
-- [ollama/ollama](https://github.com/ollama/ollama) - 62802 ⭐️
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - 23276 ⭐️
+- [ollama/ollama](https://github.com/ollama/ollama) - 62858 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 01 May 2024 16:00:59 UTC
+[^1]: Updated at 02 May 2024 00:02:07 UTC
