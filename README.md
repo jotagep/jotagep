@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
+- [fellipeutaka/ultimate-app](https://github.com/fellipeutaka/ultimate-app) - 24 ⭐️
 - [m1guelpf/prompt-organizer](https://github.com/m1guelpf/prompt-organizer) - 9 ⭐️
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - 25115 ⭐️
-- [ollama/ollama](https://github.com/ollama/ollama) - 66385 ⭐️
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - 25149 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 14 May 2024 08:01:21 UTC
+[^1]: Updated at 14 May 2024 16:00:48 UTC
