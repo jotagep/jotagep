@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
+- [OffchainLabs/arbitrum-docs](https://github.com/OffchainLabs/arbitrum-docs) - 158 ⭐️
 - [fellipeutaka/ultimate-app](https://github.com/fellipeutaka/ultimate-app) - 24 ⭐️
 - [m1guelpf/prompt-organizer](https://github.com/m1guelpf/prompt-organizer) - 9 ⭐️
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - 25363 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 17 May 2024 08:01:12 UTC
+[^1]: Updated at 17 May 2024 16:00:51 UTC
