@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 35403 ⭐️
+- [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 2784 ⭐️
 - [jotagep/jotagep.com](https://github.com/jotagep/jotagep.com) - 2 ⭐️
-- [OffchainLabs/arbitrum-docs](https://github.com/OffchainLabs/arbitrum-docs) - 160 ⭐️
-- [fellipeutaka/ultimate-app](https://github.com/fellipeutaka/ultimate-app) - 24 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 21 May 2024 00:01:57 UTC
+[^1]: Updated at 21 May 2024 08:00:58 UTC
