@@ -24,8 +24,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 35445 ⭐️
-- [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 2813 ⭐️
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 35465 ⭐️
+- [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 2835 ⭐️
 - [jotagep/jotagep.com](https://github.com/jotagep/jotagep.com) - 2 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 21 May 2024 16:01:04 UTC
+[^1]: Updated at 22 May 2024 00:02:02 UTC
