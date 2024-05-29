@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - 5144 ⭐️
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 36076 ⭐️
-- [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 3009 ⭐️
+- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - 5145 ⭐️
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 36107 ⭐️
+- [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 3010 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 29 May 2024 00:02:04 UTC
+[^1]: Updated at 29 May 2024 08:01:02 UTC
