@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [reactjs/react.dev](https://github.com/reactjs/react.dev) - 10810 ⭐️
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - 10808 ⭐️
 - [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - 5148 ⭐️
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 36329 ⭐️
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 36346 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 31 May 2024 16:00:54 UTC
+[^1]: Updated at 01 Jun 2024 00:02:15 UTC
