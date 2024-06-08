@@ -24,7 +24,7 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [withastro/roadmap](https://github.com/withastro/roadmap) - 251 ⭐️
+- [withastro/roadmap](https://github.com/withastro/roadmap) - 252 ⭐️
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - 10820 ⭐️
 - [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - 5169 ⭐️
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 07 Jun 2024 16:00:51 UTC
+[^1]: Updated at 08 Jun 2024 00:02:24 UTC
