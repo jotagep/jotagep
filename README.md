@@ -26,7 +26,7 @@
 
 - [withastro/roadmap](https://github.com/withastro/roadmap) - 270 ⭐️
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - 10867 ⭐️
-- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - 5209 ⭐️
+- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - 5210 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 01 Jul 2024 00:02:11 UTC
+[^1]: Updated at 01 Jul 2024 08:00:57 UTC
