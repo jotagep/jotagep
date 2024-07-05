@@ -26,7 +26,7 @@
 
 - [OffchainLabs/arbitrum-sdk](https://github.com/OffchainLabs/arbitrum-sdk) - 220 ⭐️
 - [withastro/roadmap](https://github.com/withastro/roadmap) - 272 ⭐️
-- [reactjs/react.dev](https://github.com/reactjs/react.dev) - 10874 ⭐️
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - 10877 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 04 Jul 2024 16:00:57 UTC
+[^1]: Updated at 05 Jul 2024 00:02:06 UTC
