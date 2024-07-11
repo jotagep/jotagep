@@ -24,7 +24,7 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [microsoft/graphrag](https://github.com/microsoft/graphrag) - 9232 ⭐️
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) - 9448 ⭐️
 - [OffchainLabs/arbitrum-sdk](https://github.com/OffchainLabs/arbitrum-sdk) - 220 ⭐️
 - [withastro/roadmap](https://github.com/withastro/roadmap) - 274 ⭐️
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 11 Jul 2024 00:02:16 UTC
+[^1]: Updated at 11 Jul 2024 08:00:48 UTC
