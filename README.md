@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [Jesserc/gevm](https://github.com/Jesserc/gevm) - 68 ⭐️
-- [midudev/react-native-expo-curso-2024](https://github.com/midudev/react-native-expo-curso-2024) - 59 ⭐️
-- [microsoft/graphrag](https://github.com/microsoft/graphrag) - 9941 ⭐️
+- [Jesserc/gevm](https://github.com/Jesserc/gevm) - 69 ⭐️
+- [midudev/react-native-expo-curso-2024](https://github.com/midudev/react-native-expo-curso-2024) - 62 ⭐️
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) - 9990 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 12 Jul 2024 16:00:53 UTC
+[^1]: Updated at 13 Jul 2024 00:02:20 UTC
