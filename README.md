@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - 1665 ⭐️
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - 1669 ⭐️
 - [Jesserc/gevm](https://github.com/Jesserc/gevm) - 79 ⭐️
-- [midudev/react-native-expo-curso-2024](https://github.com/midudev/react-native-expo-curso-2024) - 121 ⭐️
+- [midudev/react-native-expo-curso-2024](https://github.com/midudev/react-native-expo-curso-2024) - 120 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 20 Jul 2024 16:00:45 UTC
+[^1]: Updated at 21 Jul 2024 00:02:18 UTC
