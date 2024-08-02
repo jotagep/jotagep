@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
+- [versotile-org/verso](https://github.com/versotile-org/verso) - 242 ⭐️
 - [Codehagen/Dingify](https://github.com/Codehagen/Dingify) - 187 ⭐️
-- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - 2543 ⭐️
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - 1908 ⭐️
+- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - 2549 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 01 Aug 2024 16:00:54 UTC
+[^1]: Updated at 02 Aug 2024 00:02:09 UTC
