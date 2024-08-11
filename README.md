@@ -26,7 +26,7 @@
 
 - [versotile-org/verso](https://github.com/versotile-org/verso) - 444 ⭐️
 - [Codehagen/Dingify](https://github.com/Codehagen/Dingify) - 186 ⭐️
-- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - 2626 ⭐️
+- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - 2629 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 10 Aug 2024 16:00:49 UTC
+[^1]: Updated at 11 Aug 2024 00:02:17 UTC
