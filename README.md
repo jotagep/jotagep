@@ -24,8 +24,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [wordware-ai/twitter](https://github.com/wordware-ai/twitter) - 1011 ⭐️
-- [versotile-org/verso](https://github.com/versotile-org/verso) - 1707 ⭐️
+- [wordware-ai/twitter](https://github.com/wordware-ai/twitter) - 1029 ⭐️
+- [versotile-org/verso](https://github.com/versotile-org/verso) - 2062 ⭐️
 - [Codehagen/Dingify](https://github.com/Codehagen/Dingify) - 186 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 13 Aug 2024 08:01:03 UTC
+[^1]: Updated at 13 Aug 2024 16:00:53 UTC
