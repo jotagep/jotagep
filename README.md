@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - 2473 ⭐️
-- [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - 1879 ⭐️
-- [wordware-ai/twitter](https://github.com/wordware-ai/twitter) - 1144 ⭐️
+- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - 2489 ⭐️
+- [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - 1881 ⭐️
+- [wordware-ai/twitter](https://github.com/wordware-ai/twitter) - 1145 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 24 Aug 2024 16:00:51 UTC
+[^1]: Updated at 25 Aug 2024 00:02:17 UTC
