@@ -24,8 +24,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - 20200 ⭐️
-- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - 2603 ⭐️
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - 20210 ⭐️
+- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - 2619 ⭐️
 - [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - 1911 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 28 Aug 2024 00:02:08 UTC
+[^1]: Updated at 28 Aug 2024 08:00:57 UTC
