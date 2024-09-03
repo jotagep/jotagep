@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - 8405 ⭐️
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - 20590 ⭐️
-- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - 2822 ⭐️
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - 9017 ⭐️
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - 20603 ⭐️
+- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - 2824 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 03 Sep 2024 00:02:04 UTC
+[^1]: Updated at 03 Sep 2024 08:01:06 UTC
