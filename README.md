@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - 8182 ⭐️
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - 10323 ⭐️
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - 21084 ⭐️
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - 8209 ⭐️
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - 10372 ⭐️
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - 21160 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 05 Sep 2024 16:00:52 UTC
+[^1]: Updated at 06 Sep 2024 00:02:14 UTC
