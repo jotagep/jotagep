@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [udecode/dotai](https://github.com/udecode/dotai) - 426 ⭐️
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - 8316 ⭐️
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - 10686 ⭐️
+- [udecode/dotai](https://github.com/udecode/dotai) - 509 ⭐️
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - 8356 ⭐️
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - 10734 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 08 Sep 2024 00:02:13 UTC
+[^1]: Updated at 08 Sep 2024 08:00:52 UTC
