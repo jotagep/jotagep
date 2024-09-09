@@ -25,8 +25,8 @@
 ## Last Starred Repos ✨ [^1]
 
 - [0xPolygonHermez/zkevm-aggregator](https://github.com/0xPolygonHermez/zkevm-aggregator) - 18 ⭐️
-- [udecode/dotai](https://github.com/udecode/dotai) - 575 ⭐️
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - 8403 ⭐️
+- [udecode/dotai](https://github.com/udecode/dotai) - 593 ⭐️
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - 8431 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 09 Sep 2024 00:02:22 UTC
+[^1]: Updated at 09 Sep 2024 08:01:14 UTC
