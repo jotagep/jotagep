@@ -24,8 +24,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [upstash/jstack](https://github.com/upstash/jstack) - 491 ⭐️
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - 3896 ⭐️
+- [upstash/jstack](https://github.com/upstash/jstack) - 516 ⭐️
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - 3898 ⭐️
 - [0xPolygonHermez/zkevm-aggregator](https://github.com/0xPolygonHermez/zkevm-aggregator) - 18 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 11 Sep 2024 08:00:50 UTC
+[^1]: Updated at 11 Sep 2024 16:01:18 UTC
