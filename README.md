@@ -24,7 +24,7 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - 82118 ⭐️
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - 82124 ⭐️
 - [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight) - 98 ⭐️
 - [Bartek532/zagrodzki.me](https://github.com/Bartek532/zagrodzki.me) - 143 ⭐️
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 25 Sep 2024 16:01:02 UTC
+[^1]: Updated at 26 Sep 2024 00:02:21 UTC
