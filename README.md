@@ -25,7 +25,7 @@
 ## Last Starred Repos ✨ [^1]
 
 - [aave/gho-core](https://github.com/aave/gho-core) - 254 ⭐️
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - 82257 ⭐️
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - 82263 ⭐️
 - [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight) - 99 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 03 Oct 2024 08:01:02 UTC
+[^1]: Updated at 03 Oct 2024 16:00:56 UTC
