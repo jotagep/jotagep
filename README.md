@@ -24,8 +24,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [vitejs/vite](https://github.com/vitejs/vite) - 67624 ⭐️
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - 11177 ⭐️
+- [vitejs/vite](https://github.com/vitejs/vite) - 67637 ⭐️
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - 11200 ⭐️
 - [aave/gho-core](https://github.com/aave/gho-core) - 254 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 04 Oct 2024 16:01:04 UTC
+[^1]: Updated at 05 Oct 2024 00:02:11 UTC
