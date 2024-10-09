@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - 2973 ⭐️
-- [vitejs/vite](https://github.com/vitejs/vite) - 67765 ⭐️
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - 11509 ⭐️
+- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - 3075 ⭐️
+- [vitejs/vite](https://github.com/vitejs/vite) - 67772 ⭐️
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - 11528 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 08 Oct 2024 16:00:51 UTC
+[^1]: Updated at 09 Oct 2024 00:02:18 UTC
