@@ -24,8 +24,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - 47127 ⭐️
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - 8965 ⭐️
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - 47144 ⭐️
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - 8966 ⭐️
 - [jotagep/reddit-platform](https://github.com/jotagep/reddit-platform) - 1 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 16 Oct 2024 16:00:49 UTC
+[^1]: Updated at 17 Oct 2024 00:02:20 UTC
