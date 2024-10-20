@@ -25,8 +25,8 @@
 ## Last Starred Repos ✨ [^1]
 
 - [dcaribou/transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets) - 235 ⭐️
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - 47316 ⭐️
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - 8990 ⭐️
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - 47338 ⭐️
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - 8995 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 20 Oct 2024 08:01:04 UTC
+[^1]: Updated at 20 Oct 2024 16:00:51 UTC
