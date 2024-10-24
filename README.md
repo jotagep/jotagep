@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - 5179 ⭐️
 - [dcaribou/transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets) - 238 ⭐️
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - 47514 ⭐️
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - 9026 ⭐️
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - 47536 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 24 Oct 2024 00:02:10 UTC
+[^1]: Updated at 24 Oct 2024 08:01:08 UTC
