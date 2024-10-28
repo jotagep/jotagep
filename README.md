@@ -24,8 +24,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - 5606 ⭐️
-- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - 6209 ⭐️
+- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - 5611 ⭐️
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - 6229 ⭐️
 - [dcaribou/transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets) - 241 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 27 Oct 2024 16:00:50 UTC
+[^1]: Updated at 28 Oct 2024 00:02:27 UTC
