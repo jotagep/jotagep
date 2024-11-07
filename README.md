@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 2217 ⭐️
-- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - 1784 ⭐️
-- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - 5646 ⭐️
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 2281 ⭐️
+- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - 1828 ⭐️
+- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - 5647 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 07 Nov 2024 08:00:45 UTC
+[^1]: Updated at 07 Nov 2024 16:00:53 UTC
