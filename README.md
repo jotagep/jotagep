@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [grammyjs/grammY](https://github.com/grammyjs/grammY) - 2360 ⭐️
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - 13128 ⭐️
-- [vercel/platforms](https://github.com/vercel/platforms) - 5707 ⭐️
+- [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - 2714 ⭐️
+- [grammyjs/grammY](https://github.com/grammyjs/grammY) - 2359 ⭐️
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - 13133 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 13 Nov 2024 00:02:22 UTC
+[^1]: Updated at 13 Nov 2024 08:00:51 UTC
