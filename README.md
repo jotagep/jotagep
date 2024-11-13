@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - 2714 ⭐️
-- [grammyjs/grammY](https://github.com/grammyjs/grammY) - 2359 ⭐️
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - 13133 ⭐️
+- [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - 3593 ⭐️
+- [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - 329 ⭐️
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - 84603 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 13 Nov 2024 08:00:51 UTC
+[^1]: Updated at 13 Nov 2024 16:00:56 UTC
