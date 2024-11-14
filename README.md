@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - 4325 ⭐️
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - 24966 ⭐️
+- [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - 4517 ⭐️
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - 331 ⭐️
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - 84663 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 14 Nov 2024 08:01:08 UTC
+[^1]: Updated at 14 Nov 2024 16:00:47 UTC
