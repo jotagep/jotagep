@@ -25,7 +25,7 @@
 ## Last Starred Repos ✨ [^1]
 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - 25079 ⭐️
-- [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - 5075 ⭐️
+- [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - 5079 ⭐️
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - 331 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 23 Nov 2024 08:01:38 UTC
+[^1]: Updated at 23 Nov 2024 16:01:36 UTC
