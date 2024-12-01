@@ -24,8 +24,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - 238 ⭐️
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - 25146 ⭐️
+- [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - 241 ⭐️
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - 25147 ⭐️
 - [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - 5275 ⭐️
 
 ## Socials
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 30 Nov 2024 16:00:50 UTC
+[^1]: Updated at 01 Dec 2024 00:02:35 UTC
