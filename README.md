@@ -26,7 +26,7 @@
 
 - [geelen/workers-mcp-server](https://github.com/geelen/workers-mcp-server) - 55 ⭐️
 - [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - 257 ⭐️
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - 25245 ⭐️
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - 25248 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 10 Dec 2024 16:00:54 UTC
+[^1]: Updated at 11 Dec 2024 00:02:41 UTC
