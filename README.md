@@ -25,8 +25,8 @@
 ## Last Starred Repos ✨ [^1]
 
 - [geelen/workers-mcp-server](https://github.com/geelen/workers-mcp-server) - 55 ⭐️
-- [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - 258 ⭐️
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - 25269 ⭐️
+- [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - 259 ⭐️
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - 25272 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 12 Dec 2024 08:00:53 UTC
+[^1]: Updated at 12 Dec 2024 16:00:49 UTC
