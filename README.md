@@ -1,7 +1,7 @@
 <div>
-<h1 align="center">Jotagep - Web developer 🧢</h1>
+<h1 align="center">Jotagep - Web Alchemist ⚡🧢</h1>
 
-<p align="center">I'm a web developer. Currently working as <b>Senior Front-End Developer</b> at <a href="https://www.redpoints.com/">RedPoints</a>.<br />I love to create things through code, coding bounties and always keep learning</p>
+<p align="center">Weaving code into experiences that spark curiosity. Relentlessly exploring, crafting, and pushing the web’s boundaries.<br />Let’s see where the next idea takes us. 🚀</p>
 
 ## Main Tech Stack
 
@@ -12,7 +12,6 @@
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="hardhat" width="40" height="40"/>
   <img src="https://astro.build/assets/press/logomark-light.svg" alt="astro" width="40" height="40"/>
   <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="git" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
   <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg" alt="solidity" width="auto" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git" width="40" height="40"/>
@@ -35,7 +34,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jotagep" height="24px" width="24px" />
   </a>
   <a href="https://twitter.com/jotagep_dev" target="blank" style="margin-right: 4px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jotagep" height="24px" width="24px" />
+    <img align="center" src="https://simpleicons.org/icons/x.svg" alt="jotagep" height="24px" width="24px" />
   </a>
   <a href="https://jotagep.com" target="blank" style="margin-right: 4px">
     <img align="center" src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" alt="jotagep" height="24px" width="24px" />
