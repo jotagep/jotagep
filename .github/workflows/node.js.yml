@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   build:
@@ -18,9 +18,16 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: "16"
-      - run: npm install
-      - run: npm run update
-      - run: |
+      - name: Verificar probabilidad de ejecución
+        id: random
+        run: |
+          RANDOM_NUM=$(( $RANDOM % 2 ))
+          echo "::set-output name=should_run::$RANDOM_NUM"
+      - name: Ejecutar actualización
+        if: steps.random.outputs.should_run == '1'
+        run: |
+          npm install
+          npm run update
           git config user.name jotagep
           git config user.email jotagepweb@gmail.com
           git add README.md
