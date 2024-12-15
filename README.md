@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 22599 ⭐️
-- [openauthjs/openauth](https://github.com/openauthjs/openauth) - 2503 ⭐️
-- [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - 3109 ⭐️
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 22601 ⭐️
+- [openauthjs/openauth](https://github.com/openauthjs/openauth) - 2525 ⭐️
+- [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - 3113 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 14 Dec 2024 18:05:30 UTC
+[^1]: Updated at 15 Dec 2024 12:07:18 UTC
