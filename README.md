@@ -24,9 +24,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 4283 ⭐️
-- [craigsdennis/talk-to-javascript-openai-workers](https://github.com/craigsdennis/talk-to-javascript-openai-workers) - 128 ⭐️
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 22764 ⭐️
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 4482 ⭐️
+- [craigsdennis/talk-to-javascript-openai-workers](https://github.com/craigsdennis/talk-to-javascript-openai-workers) - 130 ⭐️
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 22780 ⭐️
 
 ## Socials
 
@@ -52,4 +52,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 24 Dec 2024 18:05:52 UTC
+[^1]: Updated at 25 Dec 2024 00:19:25 UTC
