@@ -12,21 +12,19 @@
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="hardhat" width="40" height="40"/>
   <img src="https://astro.build/assets/press/logomark-light.svg" alt="astro" width="40" height="40"/>
   <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="git" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
   <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg" alt="solidity" width="auto" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
 ## Last Starred Repos ✨ [^1]
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 6986 ⭐️
-- [craigsdennis/talk-to-javascript-openai-workers](https://github.com/craigsdennis/talk-to-javascript-openai-workers) - 140 ⭐️
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 22829 ⭐️
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 7312 ⭐️
+- [craigsdennis/talk-to-javascript-openai-workers](https://github.com/craigsdennis/talk-to-javascript-openai-workers) - 142 ⭐️
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 22852 ⭐️
 
 ## Socials
 
@@ -52,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 27 Dec 2024 06:06:25 UTC
+[^1]: Updated at 27 Dec 2024 23:33:49 UTC
