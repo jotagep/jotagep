@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - 10677 ⭐️
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 11890 ⭐️
-- [craigsdennis/talk-to-javascript-openai-workers](https://github.com/craigsdennis/talk-to-javascript-openai-workers) - 157 ⭐️
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - 10785 ⭐️
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 12147 ⭐️
+- [craigsdennis/talk-to-javascript-openai-workers](https://github.com/craigsdennis/talk-to-javascript-openai-workers) - 160 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 09 Jan 2025 12:07:43 UTC
+[^1]: Updated at 10 Jan 2025 06:06:34 UTC
