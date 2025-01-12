@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [yoheinakajima/pippin](https://github.com/yoheinakajima/pippin) - 68 ⭐️
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - 11058 ⭐️
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 12930 ⭐️
+- [yoheinakajima/pippin](https://github.com/yoheinakajima/pippin) - 71 ⭐️
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - 11079 ⭐️
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 13049 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 12 Jan 2025 00:22:19 UTC
+[^1]: Updated at 12 Jan 2025 06:05:46 UTC
