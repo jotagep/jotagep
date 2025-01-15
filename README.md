@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - 2802 ⭐️
+- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - 2841 ⭐️
 - [pablosanzo/grok-everywhere](https://github.com/pablosanzo/grok-everywhere) - 4 ⭐️
-- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - 4918 ⭐️
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - 5016 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 14 Jan 2025 18:07:40 UTC
+[^1]: Updated at 15 Jan 2025 00:19:29 UTC
