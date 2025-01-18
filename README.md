@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 22665 ⭐️
-- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - 3082 ⭐️
-- [pablosanzo/grok-everywhere](https://github.com/pablosanzo/grok-everywhere) - 4 ⭐️
+- [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 639 ⭐️
+- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 22680 ⭐️
+- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - 3094 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 17 Jan 2025 18:05:44 UTC
+[^1]: Updated at 18 Jan 2025 06:05:29 UTC
