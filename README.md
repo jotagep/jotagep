@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 4072 ⭐️
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 22752 ⭐️
-- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - 3194 ⭐️
+- [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 4264 ⭐️
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 22757 ⭐️
+- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - 3199 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 22 Jan 2025 00:19:27 UTC
+[^1]: Updated at 22 Jan 2025 06:06:34 UTC
