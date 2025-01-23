@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [telegraf/telegraf](https://github.com/telegraf/telegraf) - 8485 ⭐️
-- [pippinlovesyou/pippin](https://github.com/pippinlovesyou/pippin) - 131 ⭐️
-- [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 4520 ⭐️
+- [telegraf/telegraf](https://github.com/telegraf/telegraf) - 8488 ⭐️
+- [pippinlovesyou/pippin](https://github.com/pippinlovesyou/pippin) - 158 ⭐️
+- [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 4548 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 22 Jan 2025 18:06:04 UTC
+[^1]: Updated at 23 Jan 2025 06:06:24 UTC
