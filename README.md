@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - 9219 ⭐️
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - 2934 ⭐️
-- [telegraf/telegraf](https://github.com/telegraf/telegraf) - 8495 ⭐️
+- [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - 9401 ⭐️
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - 3427 ⭐️
+- [telegraf/telegraf](https://github.com/telegraf/telegraf) - 8497 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 25 Jan 2025 12:06:21 UTC
+[^1]: Updated at 26 Jan 2025 00:19:08 UTC
