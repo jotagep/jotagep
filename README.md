@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [Dhravya/backend-api-kit](https://github.com/Dhravya/backend-api-kit) - 260 ⭐️
-- [browserbase/open-operator](https://github.com/browserbase/open-operator) - 659 ⭐️
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 26163 ⭐️
+- [Dhravya/backend-api-kit](https://github.com/Dhravya/backend-api-kit) - 266 ⭐️
+- [browserbase/open-operator](https://github.com/browserbase/open-operator) - 685 ⭐️
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 28350 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 27 Jan 2025 12:07:52 UTC
+[^1]: Updated at 27 Jan 2025 18:05:57 UTC
