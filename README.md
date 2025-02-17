@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [block/goose](https://github.com/block/goose) - 8118 ⭐️
+- [block/goose](https://github.com/block/goose) - 8156 ⭐️
 - [Dhravya/backend-api-kit](https://github.com/Dhravya/backend-api-kit) - 402 ⭐️
-- [browserbase/open-operator](https://github.com/browserbase/open-operator) - 1150 ⭐️
+- [browserbase/open-operator](https://github.com/browserbase/open-operator) - 1155 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 17 Feb 2025 00:21:11 UTC
+[^1]: Updated at 17 Feb 2025 06:07:01 UTC
