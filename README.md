@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - 82 ⭐️
-- [block/goose](https://github.com/block/goose) - 8969 ⭐️
-- [Dhravya/backend-api-kit](https://github.com/Dhravya/backend-api-kit) - 423 ⭐️
+- [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - 95 ⭐️
+- [block/goose](https://github.com/block/goose) - 8985 ⭐️
+- [Dhravya/backend-api-kit](https://github.com/Dhravya/backend-api-kit) - 424 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 28 Feb 2025 00:20:05 UTC
+[^1]: Updated at 28 Feb 2025 06:06:28 UTC
