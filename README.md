@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [cloudflare/agents-starter](https://github.com/cloudflare/agents-starter) - 365 ⭐️
+- [cloudflare/agents-starter](https://github.com/cloudflare/agents-starter) - 368 ⭐️
 - [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - 142 ⭐️
-- [block/goose](https://github.com/block/goose) - 9253 ⭐️
+- [block/goose](https://github.com/block/goose) - 9279 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 04 Mar 2025 00:20:21 UTC
+[^1]: Updated at 04 Mar 2025 06:06:24 UTC
