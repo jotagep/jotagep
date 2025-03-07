@@ -29,19 +29,19 @@
 ## Socials
 
 <p align="center">
-   <a href="https://www.youtube.com/channel/UCfEnVdbamDIjezK-22kXC9Q" target="blank" style="margin-right: 4px, text-decoration: none">
+   <a href="https://www.youtube.com/channel/UCfEnVdbamDIjezK-22kXC9Q" target="blank" style="margin-right: 4px;text-decoration: none">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jotagep" height="24px" width="24px" />
   </a>
-  <a href="https://twitter.com/jotagep_dev" target="blank" style="margin-right: 4px">
+  <a href="https://twitter.com/jotagep_dev" target="blank" style="margin-right: 4px;text-decoration: none">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jotagep" height="24px" width="24px" />
   </a>
-  <a href="https://jotagep.com" target="blank" style="margin-right: 4px">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" alt="jotagep" height="24px" width="24px" />
+  <a href="https://jotagep.com" target="blank" style="margin-right: 4px;text-decoration: none">
+    <img align="center" src="https://simpleicons.org/icons/astro.svg" alt="jotagep" height="24px" width="24px" />
   </a>
-  <a href="https://instagram.com/jotagep" target="blank" style="margin-right: 4px">
+  <a href="https://instagram.com/jotagep" target="blank" style="margin-right: 4px;text-decoration: none">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jotagep" height="24px" width="24px" />
   </a>
-  <a href="https://linkedin.com/in/jotagep" target="blank" style="margin-right: 4px">
+  <a href="https://linkedin.com/in/jotagep" target="blank" style="margin-right: 4px;text-decoration: none">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jotagep" height="24px" width="24px" />
   </a>
 </p>
