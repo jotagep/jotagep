@@ -22,26 +22,26 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [cloudflare/agents-starter](https://github.com/cloudflare/agents-starter) - 399 ⭐️
-- [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - 164 ⭐️
-- [block/goose](https://github.com/block/goose) - 9471 ⭐️
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - 1861 ⭐️
+- [janwilmake/cloudflare-sponsorware](https://github.com/janwilmake/cloudflare-sponsorware) - 15 ⭐️
+- [cloudflare/agents-starter](https://github.com/cloudflare/agents-starter) - 401 ⭐️
 
 ## Socials
 
 <p align="center">
-   <a href="https://www.youtube.com/channel/UCfEnVdbamDIjezK-22kXC9Q" target="blank" style="margin-right: 4px;text-decoration: none">
+   <a href="https://www.youtube.com/channel/UCfEnVdbamDIjezK-22kXC9Q" target="blank" style="margin-right: 4px, text-decoration: none">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jotagep" height="24px" width="24px" />
   </a>
-  <a href="https://twitter.com/jotagep_dev" target="blank" style="margin-right: 4px;text-decoration: none">
+  <a href="https://twitter.com/jotagep_dev" target="blank" style="margin-right: 4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jotagep" height="24px" width="24px" />
   </a>
-  <a href="https://jotagep.com" target="blank" style="margin-right: 4px;text-decoration: none">
-    <img align="center" src="https://simpleicons.org/icons/astro.svg" alt="jotagep" height="24px" width="24px" />
+  <a href="https://jotagep.com" target="blank" style="margin-right: 4px">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" alt="jotagep" height="24px" width="24px" />
   </a>
-  <a href="https://instagram.com/jotagep" target="blank" style="margin-right: 4px;text-decoration: none">
+  <a href="https://instagram.com/jotagep" target="blank" style="margin-right: 4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jotagep" height="24px" width="24px" />
   </a>
-  <a href="https://linkedin.com/in/jotagep" target="blank" style="margin-right: 4px;text-decoration: none">
+  <a href="https://linkedin.com/in/jotagep" target="blank" style="margin-right: 4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jotagep" height="24px" width="24px" />
   </a>
 </p>
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 07 Mar 2025 12:07:35 UTC
+[^1]: Updated at 07 Mar 2025 22:20:34 UTC
