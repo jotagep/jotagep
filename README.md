@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - 2073 ⭐️
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - 2091 ⭐️
 - [janwilmake/cloudflare-sponsorware](https://github.com/janwilmake/cloudflare-sponsorware) - 15 ⭐️
-- [cloudflare/agents-starter](https://github.com/cloudflare/agents-starter) - 421 ⭐️
+- [cloudflare/agents-starter](https://github.com/cloudflare/agents-starter) - 422 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 10 Mar 2025 18:05:58 UTC
+[^1]: Updated at 11 Mar 2025 00:20:34 UTC
