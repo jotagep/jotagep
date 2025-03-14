@@ -22,8 +22,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [plausible/analytics](https://github.com/plausible/analytics) - 21719 ⭐️
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - 2349 ⭐️
+- [plausible/analytics](https://github.com/plausible/analytics) - 21722 ⭐️
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - 2378 ⭐️
 - [janwilmake/cloudflare-sponsorware](https://github.com/janwilmake/cloudflare-sponsorware) - 16 ⭐️
 
 ## Socials
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 14 Mar 2025 06:06:23 UTC
+[^1]: Updated at 14 Mar 2025 12:07:53 UTC
