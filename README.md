@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 8411 ⭐️
-- [plausible/analytics](https://github.com/plausible/analytics) - 21864 ⭐️
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - 3342 ⭐️
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 8428 ⭐️
+- [plausible/analytics](https://github.com/plausible/analytics) - 21866 ⭐️
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - 3372 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 26 Mar 2025 06:06:45 UTC
+[^1]: Updated at 26 Mar 2025 12:07:49 UTC
