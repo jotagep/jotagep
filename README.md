@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [sentient-agi/OpenDeepSearch](https://github.com/sentient-agi/OpenDeepSearch) - 2755 ⭐️
+- [sentient-agi/OpenDeepSearch](https://github.com/sentient-agi/OpenDeepSearch) - 2775 ⭐️
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - 811 ⭐️
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 9468 ⭐️
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 9486 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 06 Apr 2025 00:22:52 UTC
+[^1]: Updated at 06 Apr 2025 06:06:16 UTC
