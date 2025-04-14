@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - 5521 ⭐️
-- [sentient-agi/OpenDeepSearch](https://github.com/sentient-agi/OpenDeepSearch) - 3137 ⭐️
-- [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - 817 ⭐️
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - 5528 ⭐️
+- [sentient-agi/OpenDeepSearch](https://github.com/sentient-agi/OpenDeepSearch) - 3146 ⭐️
+- [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - 819 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 14 Apr 2025 06:07:24 UTC
+[^1]: Updated at 14 Apr 2025 12:08:35 UTC
