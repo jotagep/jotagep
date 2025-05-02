@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [google/A2A](https://github.com/google/A2A) - 14033 ⭐️
-- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - 7328 ⭐️
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - 7208 ⭐️
+- [google/A2A](https://github.com/google/A2A) - 14058 ⭐️
+- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - 7365 ⭐️
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - 7213 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 02 May 2025 12:08:07 UTC
+[^1]: Updated at 02 May 2025 18:06:36 UTC
