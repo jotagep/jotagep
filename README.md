@@ -23,8 +23,8 @@
 ## Last Starred Repos ✨ [^1]
 
 - [mattpocock/total-typescript-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - 252 ⭐️
-- [google/A2A](https://github.com/google/A2A) - 14759 ⭐️
-- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - 8306 ⭐️
+- [google/A2A](https://github.com/google/A2A) - 14776 ⭐️
+- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - 8317 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 10 May 2025 00:21:01 UTC
+[^1]: Updated at 10 May 2025 06:06:09 UTC
