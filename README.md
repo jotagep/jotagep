@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 2703 ⭐️
+- [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 2705 ⭐️
 - [mattpocock/total-typescript-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - 253 ⭐️
-- [google/A2A](https://github.com/google/A2A) - 14994 ⭐️
+- [google/A2A](https://github.com/google/A2A) - 15139 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 13 May 2025 00:22:31 UTC
+[^1]: Updated at 14 May 2025 06:07:23 UTC
