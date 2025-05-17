@@ -24,7 +24,7 @@
 
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 2714 ⭐️
 - [mattpocock/total-typescript-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - 253 ⭐️
-- [google/A2A](https://github.com/google/A2A) - 15449 ⭐️
+- [google/A2A](https://github.com/google/A2A) - 15455 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 17 May 2025 00:21:53 UTC
+[^1]: Updated at 17 May 2025 06:06:17 UTC
