@@ -22,8 +22,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [philparzer/website-v3](https://github.com/philparzer/website-v3) - 72 ⭐️
-- [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 2716 ⭐️
+- [philparzer/website-v3](https://github.com/philparzer/website-v3) - 77 ⭐️
+- [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 2717 ⭐️
 - [mattpocock/total-typescript-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - 253 ⭐️
 
 ## Socials
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 18 May 2025 12:07:40 UTC
+[^1]: Updated at 18 May 2025 18:06:11 UTC
