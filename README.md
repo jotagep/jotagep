@@ -22,7 +22,7 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - 42045 ⭐️
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - 42054 ⭐️
 - [philparzer/website-v3](https://github.com/philparzer/website-v3) - 82 ⭐️
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 2762 ⭐️
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 06 Jun 2025 12:08:38 UTC
+[^1]: Updated at 06 Jun 2025 18:06:38 UTC
