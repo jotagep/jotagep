@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - 42028 ⭐️
 - [philparzer/website-v3](https://github.com/philparzer/website-v3) - 82 ⭐️
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 2760 ⭐️
-- [mattpocock/total-typescript-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - 254 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 05 Jun 2025 12:08:45 UTC
+[^1]: Updated at 06 Jun 2025 00:22:38 UTC
