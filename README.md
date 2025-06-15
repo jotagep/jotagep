@@ -23,7 +23,7 @@
 ## Last Starred Repos ✨ [^1]
 
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - 7097 ⭐️
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - 42306 ⭐️
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - 42310 ⭐️
 - [philparzer/website-v3](https://github.com/philparzer/website-v3) - 81 ⭐️
 
 ## Socials
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 15 Jun 2025 06:06:44 UTC
+[^1]: Updated at 15 Jun 2025 12:08:00 UTC
