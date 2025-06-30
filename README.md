@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - 42742 ⭐️
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - 7154 ⭐️
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - 42923 ⭐️
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - 43106 ⭐️
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - 7156 ⭐️
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - 42930 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 29 Jun 2025 18:06:16 UTC
+[^1]: Updated at 30 Jun 2025 00:24:51 UTC
