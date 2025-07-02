@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - 4823 ⭐️
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - 47944 ⭐️
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - 7171 ⭐️
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - 4893 ⭐️
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - 48294 ⭐️
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - 7172 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 01 Jul 2025 18:06:43 UTC
+[^1]: Updated at 02 Jul 2025 00:23:03 UTC
