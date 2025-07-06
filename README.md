@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - 1020 ⭐️
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - 6767 ⭐️
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - 53539 ⭐️
+- [pickle-com/glass](https://github.com/pickle-com/glass) - 3132 ⭐️
+- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - 1273 ⭐️
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - 6920 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 06 Jul 2025 00:25:57 UTC
+[^1]: Updated at 06 Jul 2025 12:07:56 UTC
