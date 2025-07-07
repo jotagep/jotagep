@@ -1,7 +1,7 @@
 <div>
 <h1 align="center">Jotagep - Web developer 🧢</h1>
 
-<p align="center">I'm a web developer. Currently working as <b>Senior Front-End Developer</b> at <a href="https://www.redpoints.com/">RedPoints</a>.<br />I love to create things through code, coding bounties and always keep learning</p>
+<p align="center">Senior Front-End dev @RedPoints. Building fast, learning faster. Always shipping.</p>
 
 ## Main Tech Stack
 
@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - 24309 ⭐️
-- [pickle-com/glass](https://github.com/pickle-com/glass) - 3404 ⭐️
-- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - 2677 ⭐️
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - 24516 ⭐️
+- [pickle-com/glass](https://github.com/pickle-com/glass) - 3499 ⭐️
+- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - 3057 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 07 Jul 2025 08:04:33 UTC
+[^1]: Updated at 07 Jul 2025 12:08:54 UTC
