@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - 24516 ⭐️
-- [pickle-com/glass](https://github.com/pickle-com/glass) - 3499 ⭐️
-- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - 3057 ⭐️
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - 24784 ⭐️
+- [pickle-com/glass](https://github.com/pickle-com/glass) - 3567 ⭐️
+- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - 3487 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 07 Jul 2025 12:08:54 UTC
+[^1]: Updated at 07 Jul 2025 18:07:07 UTC
