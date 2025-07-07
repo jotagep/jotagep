@@ -1,7 +1,7 @@
 <div>
 <h1 align="center">Jotagep - Web developer 🧢</h1>
 
-<p align="center">Senior Front-End dev @ RedPoints. Building fast, learning faster. Always shipping.</p>
+<p align="center"><Senior Front-End dev @RedPoints. Building fast, learning faster. Always shipping.</p>
 
 ## Main Tech Stack
 
