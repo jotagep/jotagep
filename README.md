@@ -23,8 +23,8 @@
 ## Last Starred Repos ✨ [^1]
 
 - [dcaribou/transfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper) - 129 ⭐️
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - 25977 ⭐️
-- [pickle-com/glass](https://github.com/pickle-com/glass) - 4455 ⭐️
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - 25991 ⭐️
+- [pickle-com/glass](https://github.com/pickle-com/glass) - 4464 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 17 Jul 2025 18:07:27 UTC
+[^1]: Updated at 18 Jul 2025 00:24:02 UTC
