@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [sst/opencode](https://github.com/sst/opencode) - 14970 ⭐️
+- [sst/opencode](https://github.com/sst/opencode) - 14988 ⭐️
 - [dcaribou/transfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper) - 129 ⭐️
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - 26315 ⭐️
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - 26320 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 27 Jul 2025 00:27:17 UTC
+[^1]: Updated at 27 Jul 2025 06:07:12 UTC
