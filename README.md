@@ -22,8 +22,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [keenthemes/reui](https://github.com/keenthemes/reui) - 736 ⭐️
-- [sst/opencode](https://github.com/sst/opencode) - 19631 ⭐️
+- [keenthemes/reui](https://github.com/keenthemes/reui) - 759 ⭐️
+- [sst/opencode](https://github.com/sst/opencode) - 19669 ⭐️
 - [dcaribou/transfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper) - 131 ⭐️
 
 ## Socials
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 15 Aug 2025 18:07:13 UTC
+[^1]: Updated at 16 Aug 2025 00:22:23 UTC
