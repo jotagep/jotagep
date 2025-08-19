@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [campfirein/cipher](https://github.com/campfirein/cipher) - 1645 ⭐️
-- [keenthemes/reui](https://github.com/keenthemes/reui) - 986 ⭐️
-- [sst/opencode](https://github.com/sst/opencode) - 20112 ⭐️
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 11808 ⭐️
+- [campfirein/cipher](https://github.com/campfirein/cipher) - 1655 ⭐️
+- [keenthemes/reui](https://github.com/keenthemes/reui) - 995 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 19 Aug 2025 06:07:39 UTC
+[^1]: Updated at 19 Aug 2025 12:08:30 UTC
