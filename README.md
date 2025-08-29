@@ -22,9 +22,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - 11666 ⭐️
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 11826 ⭐️
-- [campfirein/cipher](https://github.com/campfirein/cipher) - 2277 ⭐️
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - 11687 ⭐️
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 11827 ⭐️
+- [campfirein/cipher](https://github.com/campfirein/cipher) - 2290 ⭐️
 
 ## Socials
 
@@ -50,4 +50,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 29 Aug 2025 00:21:58 UTC
+[^1]: Updated at 29 Aug 2025 06:07:25 UTC
