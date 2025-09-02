@@ -20,6 +20,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
+## Github Contributions 📈
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jotagep&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Last Starred Repos ✨ [^1]
 
 %{{last_starred_repos}}%
