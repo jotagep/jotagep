@@ -27,8 +27,8 @@
 ## Last Starred Repos ✨ [^1]
 
 - [Wolox/react-chat-widget](https://github.com/Wolox/react-chat-widget) - 1543 ⭐️
-- [github/spec-kit](https://github.com/github/spec-kit) - 23905 ⭐️
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - 13145 ⭐️
+- [github/spec-kit](https://github.com/github/spec-kit) - 23997 ⭐️
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - 13148 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 21 Sep 2025 18:06:11 UTC
+[^1]: Updated at 22 Sep 2025 00:23:39 UTC
