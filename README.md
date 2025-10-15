@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [ProtonDriveApps/sdk](https://github.com/ProtonDriveApps/sdk) - 142 ⭐️
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - 75026 ⭐️
-- [Wolox/react-chat-widget](https://github.com/Wolox/react-chat-widget) - 1544 ⭐️
+- [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare) - 910 ⭐️
+- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - 428 ⭐️
+- [ProtonDriveApps/sdk](https://github.com/ProtonDriveApps/sdk) - 143 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 15 Oct 2025 00:22:03 UTC
+[^1]: Updated at 15 Oct 2025 12:09:23 UTC
