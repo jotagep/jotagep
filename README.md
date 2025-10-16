@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare) - 931 ⭐️
-- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - 431 ⭐️
-- [ProtonDriveApps/sdk](https://github.com/ProtonDriveApps/sdk) - 145 ⭐️
+- [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - 4879 ⭐️
+- [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare) - 955 ⭐️
+- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - 433 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 16 Oct 2025 00:22:33 UTC
+[^1]: Updated at 16 Oct 2025 12:09:04 UTC
