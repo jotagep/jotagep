@@ -27,8 +27,8 @@
 ## Last Starred Repos ✨ [^1]
 
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - 4886 ⭐️
-- [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare) - 980 ⭐️
-- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - 440 ⭐️
+- [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare) - 986 ⭐️
+- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - 443 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 19 Oct 2025 00:24:35 UTC
+[^1]: Updated at 19 Oct 2025 18:06:30 UTC
