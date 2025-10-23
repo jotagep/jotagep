@@ -28,7 +28,7 @@
 
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - 4888 ⭐️
 - [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare) - 1006 ⭐️
-- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - 445 ⭐️
+- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - 446 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 22 Oct 2025 18:07:38 UTC
+[^1]: Updated at 23 Oct 2025 00:22:06 UTC
