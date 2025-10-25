@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [supabase/supabase](https://github.com/supabase/supabase) - 90603 ⭐️
+- [openai/agents.md](https://github.com/openai/agents.md) - 7582 ⭐️
+- [supabase/supabase](https://github.com/supabase/supabase) - 90620 ⭐️
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - 23157 ⭐️
-- [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - 4888 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 25 Oct 2025 06:06:34 UTC
+[^1]: Updated at 25 Oct 2025 12:07:47 UTC
