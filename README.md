@@ -26,8 +26,8 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [openai/agents.md](https://github.com/openai/agents.md) - 7595 ⭐️
-- [supabase/supabase](https://github.com/supabase/supabase) - 90635 ⭐️
+- [openai/agents.md](https://github.com/openai/agents.md) - 7610 ⭐️
+- [supabase/supabase](https://github.com/supabase/supabase) - 90653 ⭐️
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - 23159 ⭐️
 
 ## Socials
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 25 Oct 2025 18:06:22 UTC
+[^1]: Updated at 26 Oct 2025 06:07:17 UTC
