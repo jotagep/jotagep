@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [amannn/next-intl](https://github.com/amannn/next-intl) - 3848 ⭐️
-- [dabit3/x402-starter-kit](https://github.com/dabit3/x402-starter-kit) - 108 ⭐️
-- [openai/agents.md](https://github.com/openai/agents.md) - 8003 ⭐️
+- [amannn/next-intl](https://github.com/amannn/next-intl) - 3850 ⭐️
+- [dabit3/x402-starter-kit](https://github.com/dabit3/x402-starter-kit) - 109 ⭐️
+- [openai/agents.md](https://github.com/openai/agents.md) - 8006 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 08 Nov 2025 06:07:17 UTC
+[^1]: Updated at 08 Nov 2025 12:07:50 UTC
