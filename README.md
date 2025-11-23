@@ -28,7 +28,7 @@
 
 - [amannn/next-intl](https://github.com/amannn/next-intl) - 3922 ⭐️
 - [dabit3/x402-starter-kit](https://github.com/dabit3/x402-starter-kit) - 126 ⭐️
-- [openai/agents.md](https://github.com/openai/agents.md) - 8458 ⭐️
+- [openai/agents.md](https://github.com/openai/agents.md) - 8461 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 23 Nov 2025 00:26:43 UTC
+[^1]: Updated at 23 Nov 2025 06:07:28 UTC
