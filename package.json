@@ -18,9 +18,7 @@
 	},
 	"homepage": "https://github.com/jotagep/jotagep#readme",
 	"dependencies": {
-		"node-fetch": "^3.3.2",
-		"twitter-api-sdk": "^1.2.1",
-		"twitter-api-v2": "^1.16.3"
+		"node-fetch": "^3.3.2"
 	},
 	"eslintConfig": {
 		"extends": "./node_modules/standard/eslintrc.json"

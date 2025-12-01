@@ -14,15 +14,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: "16"
+          node-version: "20"
       - name: Verificar probabilidad de ejecución
         id: random
         run: |
           RANDOM_NUM=$(( $RANDOM % 4 ))
-          echo "::set-output name=should_run::$RANDOM_NUM"
+          echo "should_run=$RANDOM_NUM" >> $GITHUB_OUTPUT
       - name: Ejecutar actualización
         if: steps.random.outputs.should_run != '3'
         run: |
