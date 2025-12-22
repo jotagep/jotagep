@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [TailAdmin/free-nextjs-admin-dashboard](https://github.com/TailAdmin/free-nextjs-admin-dashboard) - 2158 ⭐️
-- [amannn/next-intl](https://github.com/amannn/next-intl) - 3998 ⭐️
-- [dabit3/x402-starter-kit](https://github.com/dabit3/x402-starter-kit) - 160 ⭐️
+- [TailAdmin/free-nextjs-admin-dashboard](https://github.com/TailAdmin/free-nextjs-admin-dashboard) - 2160 ⭐️
+- [amannn/next-intl](https://github.com/amannn/next-intl) - 4000 ⭐️
+- [dabit3/x402-starter-kit](https://github.com/dabit3/x402-starter-kit) - 162 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 22 Dec 2025 06:09:07 UTC
+[^1]: Updated at 22 Dec 2025 18:08:07 UTC
