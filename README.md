@@ -26,7 +26,7 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [amilich/isometric-city](https://github.com/amilich/isometric-city) - 1110 ⭐️
+- [amilich/isometric-city](https://github.com/amilich/isometric-city) - 1127 ⭐️
 - [TailAdmin/free-nextjs-admin-dashboard](https://github.com/TailAdmin/free-nextjs-admin-dashboard) - 2171 ⭐️
 - [amannn/next-intl](https://github.com/amannn/next-intl) - 4008 ⭐️
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 27 Dec 2025 00:24:13 UTC
+[^1]: Updated at 27 Dec 2025 06:07:45 UTC
