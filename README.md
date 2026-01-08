@@ -28,7 +28,7 @@
 
 - [amilich/isometric-city](https://github.com/amilich/isometric-city) - 1381 ⭐️
 - [TailAdmin/free-nextjs-admin-dashboard](https://github.com/TailAdmin/free-nextjs-admin-dashboard) - 2188 ⭐️
-- [amannn/next-intl](https://github.com/amannn/next-intl) - 4033 ⭐️
+- [amannn/next-intl](https://github.com/amannn/next-intl) - 4035 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 07 Jan 2026 18:08:27 UTC
+[^1]: Updated at 08 Jan 2026 00:25:38 UTC
