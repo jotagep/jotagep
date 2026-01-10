@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - 16765 ⭐️
-- [amilich/isometric-city](https://github.com/amilich/isometric-city) - 1427 ⭐️
-- [TailAdmin/free-nextjs-admin-dashboard](https://github.com/TailAdmin/free-nextjs-admin-dashboard) - 2196 ⭐️
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - 16855 ⭐️
+- [amilich/isometric-city](https://github.com/amilich/isometric-city) - 1429 ⭐️
+- [TailAdmin/free-nextjs-admin-dashboard](https://github.com/TailAdmin/free-nextjs-admin-dashboard) - 2197 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 10 Jan 2026 12:08:52 UTC
+[^1]: Updated at 10 Jan 2026 18:07:44 UTC
