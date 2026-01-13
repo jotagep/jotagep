@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - 33804 ⭐️
-- [payloadcms/payload](https://github.com/payloadcms/payload) - 39847 ⭐️
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - 17128 ⭐️
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - 33868 ⭐️
+- [payloadcms/payload](https://github.com/payloadcms/payload) - 39867 ⭐️
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - 17252 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 12 Jan 2026 06:10:35 UTC
+[^1]: Updated at 13 Jan 2026 06:09:08 UTC
