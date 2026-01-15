@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - 3726 ⭐️
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - 34022 ⭐️
-- [payloadcms/payload](https://github.com/payloadcms/payload) - 39905 ⭐️
+- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - 3815 ⭐️
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - 34076 ⭐️
+- [payloadcms/payload](https://github.com/payloadcms/payload) - 39919 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 14 Jan 2026 18:08:43 UTC
+[^1]: Updated at 15 Jan 2026 12:10:07 UTC
