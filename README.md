@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 10755 ⭐️
-- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - 3917 ⭐️
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - 34182 ⭐️
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 11145 ⭐️
+- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - 3934 ⭐️
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - 34188 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 17 Jan 2026 18:07:30 UTC
+[^1]: Updated at 18 Jan 2026 00:27:42 UTC
