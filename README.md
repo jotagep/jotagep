@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [expo/skills](https://github.com/expo/skills) - 633 ⭐️
-- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 15805 ⭐️
-- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - 4048 ⭐️
+- [expo/skills](https://github.com/expo/skills) - 644 ⭐️
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 15858 ⭐️
+- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - 4055 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 23 Jan 2026 18:08:33 UTC
+[^1]: Updated at 24 Jan 2026 00:24:36 UTC
