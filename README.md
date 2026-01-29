@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - 88337 ⭐️
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - 6175 ⭐️
-- [expo/skills](https://github.com/expo/skills) - 760 ⭐️
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - 93347 ⭐️
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - 6210 ⭐️
+- [expo/skills](https://github.com/expo/skills) - 764 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 29 Jan 2026 00:29:05 UTC
+[^1]: Updated at 29 Jan 2026 06:18:11 UTC
