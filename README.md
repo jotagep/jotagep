@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - 167616 ⭐️
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - 6793 ⭐️
-- [expo/skills](https://github.com/expo/skills) - 878 ⭐️
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - 168799 ⭐️
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - 6805 ⭐️
+- [expo/skills](https://github.com/expo/skills) - 883 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 06 Feb 2026 00:28:51 UTC
+[^1]: Updated at 06 Feb 2026 06:21:14 UTC
