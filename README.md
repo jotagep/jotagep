@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 8136 ⭐️
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - 227691 ⭐️
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - 7353 ⭐️
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 8150 ⭐️
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - 228471 ⭐️
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - 7360 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 25 Feb 2026 12:17:24 UTC
+[^1]: Updated at 25 Feb 2026 18:25:46 UTC
