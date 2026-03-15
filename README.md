@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 92697 ⭐️
-- [cloudflare/vinext](https://github.com/cloudflare/vinext) - 6692 ⭐️
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 8728 ⭐️
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 93265 ⭐️
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - 6749 ⭐️
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 9029 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 14 Mar 2026 06:18:38 UTC
+[^1]: Updated at 15 Mar 2026 12:13:00 UTC
