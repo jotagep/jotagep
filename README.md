@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - 30851 ⭐️
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 98531 ⭐️
-- [cloudflare/vinext](https://github.com/cloudflare/vinext) - 7273 ⭐️
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - 30852 ⭐️
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 98684 ⭐️
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - 7320 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 26 Mar 2026 12:23:22 UTC
+[^1]: Updated at 26 Mar 2026 18:24:42 UTC
