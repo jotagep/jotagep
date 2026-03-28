@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - 52441 ⭐️
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - 30854 ⭐️
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 99475 ⭐️
+- [garrytan/gstack](https://github.com/garrytan/gstack) - 52788 ⭐️
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - 30853 ⭐️
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 99597 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 28 Mar 2026 00:32:17 UTC
+[^1]: Updated at 28 Mar 2026 06:24:17 UTC
