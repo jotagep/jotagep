@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [midudev/autoskills](https://github.com/midudev/autoskills) - 177 ⭐️
-- [garrytan/gstack](https://github.com/garrytan/gstack) - 59287 ⭐️
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - 30869 ⭐️
+- [midudev/autoskills](https://github.com/midudev/autoskills) - 184 ⭐️
+- [garrytan/gstack](https://github.com/garrytan/gstack) - 59532 ⭐️
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - 30871 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 31 Mar 2026 18:23:13 UTC
+[^1]: Updated at 01 Apr 2026 00:38:42 UTC
