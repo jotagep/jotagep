@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 5730 ⭐️
-- [midudev/autoskills](https://github.com/midudev/autoskills) - 431 ⭐️
-- [garrytan/gstack](https://github.com/garrytan/gstack) - 63075 ⭐️
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 6098 ⭐️
+- [midudev/autoskills](https://github.com/midudev/autoskills) - 477 ⭐️
+- [garrytan/gstack](https://github.com/garrytan/gstack) - 63241 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 03 Apr 2026 18:15:15 UTC
+[^1]: Updated at 04 Apr 2026 00:32:47 UTC
