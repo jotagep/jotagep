@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - 2439 ⭐️
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 8887 ⭐️
-- [midudev/autoskills](https://github.com/midudev/autoskills) - 2204 ⭐️
+- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - 2442 ⭐️
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 8922 ⭐️
+- [midudev/autoskills](https://github.com/midudev/autoskills) - 2235 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 11 Apr 2026 06:26:15 UTC
+[^1]: Updated at 11 Apr 2026 12:14:20 UTC
