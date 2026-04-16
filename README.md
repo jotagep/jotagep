@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [cloudflare/skills](https://github.com/cloudflare/skills) - 857 ⭐️
-- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - 2577 ⭐️
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 9429 ⭐️
+- [cloudflare/skills](https://github.com/cloudflare/skills) - 876 ⭐️
+- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - 2589 ⭐️
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 9493 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 16 Apr 2026 12:28:15 UTC
+[^1]: Updated at 16 Apr 2026 18:29:00 UTC
