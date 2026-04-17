@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 47684 ⭐️
-- [cloudflare/skills](https://github.com/cloudflare/skills) - 883 ⭐️
-- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - 2601 ⭐️
+- [tw93/Mole](https://github.com/tw93/Mole) - 47845 ⭐️
+- [cloudflare/skills](https://github.com/cloudflare/skills) - 894 ⭐️
+- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - 2613 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 17 Apr 2026 00:39:56 UTC
+[^1]: Updated at 17 Apr 2026 12:24:47 UTC
