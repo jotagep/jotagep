@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 2999 ⭐️
-- [tw93/Mole](https://github.com/tw93/Mole) - 47955 ⭐️
-- [cloudflare/skills](https://github.com/cloudflare/skills) - 902 ⭐️
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 4819 ⭐️
+- [tw93/Mole](https://github.com/tw93/Mole) - 48066 ⭐️
+- [cloudflare/skills](https://github.com/cloudflare/skills) - 912 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 18 Apr 2026 06:30:18 UTC
+[^1]: Updated at 19 Apr 2026 00:40:45 UTC
