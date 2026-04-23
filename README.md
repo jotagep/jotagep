@@ -26,9 +26,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 21610 ⭐️
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 9645 ⭐️
-- [tw93/Mole](https://github.com/tw93/Mole) - 48914 ⭐️
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 21810 ⭐️
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 9823 ⭐️
+- [tw93/Mole](https://github.com/tw93/Mole) - 48945 ⭐️
 
 ## Socials
 
@@ -54,4 +54,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 23 Apr 2026 12:26:21 UTC
+[^1]: Updated at 23 Apr 2026 18:28:33 UTC
