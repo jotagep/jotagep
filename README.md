@@ -30,9 +30,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 46642 ⭐️
-- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 14913 ⭐️
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 46476 ⭐️
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 47394 ⭐️
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 14935 ⭐️
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 46565 ⭐️
 
 ## Socials
 
@@ -58,4 +58,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 28 May 2026 00:48:19 UTC
+[^1]: Updated at 28 May 2026 07:26:29 UTC
