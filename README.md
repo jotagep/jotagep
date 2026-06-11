@@ -30,9 +30,9 @@
 
 ## Last Starred Repos ✨ [^1]
 
-- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 15612 ⭐️
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 51288 ⭐️
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 26470 ⭐️
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 15635 ⭐️
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 52867 ⭐️
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 26633 ⭐️
 
 ## Socials
 
@@ -58,4 +58,4 @@
 <p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
 </div>
 
-[^1]: Updated at 10 Jun 2026 18:57:14 UTC
+[^1]: Updated at 11 Jun 2026 07:47:10 UTC
