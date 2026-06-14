@@ -1,61 +1,41 @@
-<div>
-<h1 align="center">Jotagep - Web developer 🧢</h1>
+<div align="center">
+  <h1>Hey, I'm Jorge (Jotagep) 👋</h1>
+  <p><strong>Senior Front-End & Full-Stack Developer</strong></p>
+  <p>Engineering scalable frontend architectures, building robust design systems, and optimizing for Core Web Vitals.</p>
 
-<p align="center">Senior Front-End dev @RedPoints. Building fast, learning faster. Always shipping.</p>
+  <p align="center">
+    <a href="https://jotagep.com">🌐 Website</a> •
+    <a href="https://linkedin.com/in/jotagep">💼 LinkedIn</a> •
+    <a href="https://twitter.com/jotagep_dev">🐦 Twitter / X</a> •
+  </p>
+</div>
 
-## Main Tech Stack
+---
 
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></td>
-    <td><img src="https://astro.build/assets/press/logomark-light.svg" alt="astro" width="40" height="40"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="nextjs" width="60" height="40"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/></td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" alt="hardhat" width="auto" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></td>
-  </tr>
-</table>
+### 💻 Senior Frontend Engineering & Architecture
 
-## Github Contributions 📈
+* **Architecture & Patterns:** Designing scalable frontends using **Hexagonal Architecture**, Clean Architecture, and domain-driven patterns to decouple business logic from the UI framework.
+* **Design Systems & UI:** Building, documenting, and scaling enterprise-grade **Design Systems** using **Storybook**, Tailwind CSS, and headless component primitives.
+* **Testing & Quality:** Implementing comprehensive testing strategies with **Playwright** for E2E testing, Component Testing, and automated CI/CD quality gates.
+* **Performance & SEO:** Advanced web performance optimization, targeting strict Core Web Vitals using **Astro** (SSG/Programmatic SEO) and Next.js.
+
+### 🛠️ Technical Ecosystem
+
+* **Core Languages:** TypeScript / JavaScript (ESNext).
+* **Frameworks & Libraries:** React, Next.js, Astro, Node.js.
+* **State & Data:** Scalable state management, API integration (GraphQL, REST), and data fetching strategies.
+* **Infrastructure & Databases:** Cloudflare ecosystem (Workers, D1, R2, Durable Objects), SQL (SQLite, PostgreSQL), and MongoDB.
+
+---
+
+### GitHub Activity 📈
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jotagep&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Last Starred Repos ✨ [^1]
+### Last Starred Repos ✨ [^1]
 
-- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 15747 ⭐️
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 58771 ⭐️
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 27444 ⭐️
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 15753 ⭐️
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 58874 ⭐️
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 27466 ⭐️
 
-## Socials
-
-<p align="center">
-   <a href="https://www.youtube.com/channel/UCfEnVdbamDIjezK-22kXC9Q" target="blank" style="margin-right: 4px, text-decoration: none">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jotagep" height="24px" width="24px" />
-  </a>
-  <a href="https://twitter.com/jotagep_dev" target="blank" style="margin-right: 4px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jotagep" height="24px" width="24px" />
-  </a>
-  <a href="https://jotagep.com" target="blank" style="margin-right: 4px">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" alt="jotagep" height="24px" width="24px" />
-  </a>
-  <a href="https://instagram.com/jotagep" target="blank" style="margin-right: 4px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jotagep" height="24px" width="24px" />
-  </a>
-  <a href="https://linkedin.com/in/jotagep" target="blank" style="margin-right: 4px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jotagep" height="24px" width="24px" />
-  </a>
-</p>
-
-<div align="center" class="mt-4">
-<p style="margin-bottom: 2px">Made with ❤️ by <a href="https://jotagep.com" style="text-decoration: none, font-weight: bold" target="blank">Jotagep</a></p>
-</div>
-
-[^1]: Updated at 14 Jun 2026 07:40:53 UTC
+[^1]: Updated at  14 Jun 2026 09:17:47 UTC
