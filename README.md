@@ -34,8 +34,8 @@
 
 ### Last Starred Repos ✨ [^1]
 
-- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 15926 ⭐️
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 62116 ⭐️
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 28380 ⭐️
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 15934 ⭐️
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 62283 ⭐️
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 28453 ⭐️
 
-[^1]: Updated at  17 Jun 2026 18:53:43 UTC
+[^1]: Updated at  18 Jun 2026 01:00:09 UTC
