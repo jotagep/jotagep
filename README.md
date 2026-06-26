@@ -34,8 +34,8 @@
 
 ### Last Starred Repos ✨ [^1]
 
-- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - 24580 ⭐️
-- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 18797 ⭐️
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 66729 ⭐️
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - 24584 ⭐️
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 19207 ⭐️
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 66774 ⭐️
 
-[^1]: Updated at  25 Jun 2026 18:48:55 UTC
+[^1]: Updated at  26 Jun 2026 00:55:50 UTC
