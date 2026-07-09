@@ -34,8 +34,8 @@
 
 ### Last Starred Repos ✨ [^1]
 
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - 33221 ⭐️
-- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - 25009 ⭐️
-- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 25382 ⭐️
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - 33222 ⭐️
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - 25017 ⭐️
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - 25398 ⭐️
 
-[^1]: Updated at  08 Jul 2026 18:32:20 UTC
+[^1]: Updated at  09 Jul 2026 00:42:02 UTC
