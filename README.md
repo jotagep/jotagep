@@ -34,8 +34,8 @@
 
 ### Last Starred Repos ✨ [^1]
 
-- [every-app/open-seo](https://github.com/every-app/open-seo) - 28270 ⭐️
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - 33547 ⭐️
-- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - 27751 ⭐️
+- [every-app/open-seo](https://github.com/every-app/open-seo) - 28355 ⭐️
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - 33550 ⭐️
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - 27769 ⭐️
 
-[^1]: Updated at  19 Nov 2026 06:26:41 UTC
+[^1]: Updated at  19 Nov 2026 20:00:26 UTC
